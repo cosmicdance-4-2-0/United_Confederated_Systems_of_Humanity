@@ -1,5 +1,5 @@
 # Amendment / Delta 1 — The Sentinel Provision  
-## Establishing the Sentinel Corps as a Distributed Agency-Defense Mechanism
+## Establishing the Sentinel Provision as a Distributed Agency-Defense Mechanism
 
 **Adopted under:** Article XII (Iteration, Forking, and Dissolution)  
 **Effective:** upon ratification and publication as a versioned delta with provenance
@@ -8,7 +8,7 @@
 
 ## Section 1 — Purpose and Standing
 
-The **Sentinel Corps** is hereby constituted as a distributed, non-centralizing protective mechanism intended to bridge the response gap between:
+The **Sentinel Provision** is hereby constituted as a distributed, non-centralizing protective mechanism intended to bridge the response gap between:
 
 - **a)** confederation-scale action by the Defense Branch, and  
 - **b)** local action by Member Polities and voluntary associations.
@@ -19,7 +19,7 @@ Sentinels exist to protect sentient agency and defend the commons against:
 - **b)** sabotage or capture of commons infrastructure or exchange rails; and  
 - **c)** emergent threats requiring swift, proportionate intervention.
 
-The Sentinel Corps is **not** a new branch of government. It is a **role-based delegation** operating under the Codex, subject to the checks of the existing branches.
+The Sentinel Provision is **not** a new branch of government. It is a **role-based delegation** operating under the Codex, subject to the checks of the existing branches.
 
 Sentinels shall prefer **de-escalation and restoration** wherever possible. When defensive force is required, Sentinels shall act under **strict necessity and proportionality**.
 
